@@ -1,6 +1,6 @@
 config:
   azure:location: australiasoutheast
-  azure:subscriptionId: c0ed52ca-d011-462f-b213-744841fdae8b
+  azure:subscriptionId: 
   pulumi_azure_py_VMSet:adminUser: AzureAdmin
   pulumi_azure_py_VMSet:adminPassword:
     secure: AAABADqq6fOOn3of7A3OniRMWOQ2zio2v5dSZh56tRL7lld1zkbDdQ==
